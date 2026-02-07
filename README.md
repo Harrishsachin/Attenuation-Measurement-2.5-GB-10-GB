@@ -71,13 +71,16 @@ Using the power budget equation and the parameters below, determine the attenuat
      - Eye diagram  
 2. Set the fiber length to **125% of the calculated pre-lab value** and repeat the simulation and data recording.  
 ## Tabulation for 2.5GB 
-![WhatsApp Image 2026-02-01 at 11 30 11](https://github.com/user-attachments/assets/1235101d-2be8-4aa1-80ba-eaf126d23404)
+![WhatsApp Image 2026-02-07 at 1 23 16 PM](https://github.com/user-attachments/assets/f60efe43-b3f7-4c65-951b-e9294aacccdd)
+
 
 ## Tabulation for 10 GB
-![WhatsApp Image 2026-02-01 at 11 30 11 (1)](https://github.com/user-attachments/assets/0c82be13-ca45-48b1-a2c2-6bb992a96bef)
+![WhatsApp Image 2026-02-07 at 1 23 20 PM](https://github.com/user-attachments/assets/aa12acea-536f-46de-a429-5cb8a50c4246)
+
 
 ## Calculation
-![WhatsApp Image 2026-02-01 at 11 30 12](https://github.com/user-attachments/assets/4af43dc7-b2fa-4bae-86b2-cc4cddb6112a)
+![WhatsApp Image 2026-02-07 at 1 21 34 PM](https://github.com/user-attachments/assets/c4a4993a-6bea-405b-b1b2-c332402f65e8)
+
 
 ## High Noise for 2.5 GB
 <img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/9dc191e5-c286-46dd-82a8-fb3b151629dc" />
